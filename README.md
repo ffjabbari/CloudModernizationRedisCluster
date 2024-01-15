@@ -1,4 +1,5 @@
 # How to create local redis cluster
+# FRED, start it just like this for now ******
 
 > `en0` is your network interface that you're using right now.
 
